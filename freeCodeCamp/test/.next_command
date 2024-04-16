@@ -277,3 +277,4 @@ cd ../
 cd ./
 cd ..
 mkdir client/assets/fonts
+touch client/assets/fonts/roboto-bold.woff

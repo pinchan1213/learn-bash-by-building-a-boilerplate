@@ -229,3 +229,4 @@ mv images/footer.jpeg client/assets/images
 ls --color=auto
 find
 rmdir images
+rm /workspace/project/website/images/background.jpg

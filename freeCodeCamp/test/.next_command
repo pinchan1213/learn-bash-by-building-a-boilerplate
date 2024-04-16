@@ -45,3 +45,7 @@ ls --color=auto
 more node_modules
 cd node_modules
 ls --color=auto
+ls --color=auto -1
+ls --color=auto -3
+ls --color=auto -2
+ls --color=auto -l

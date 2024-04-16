@@ -257,3 +257,11 @@ pwd
 cd website
 rmdir images
 ls --color=auto
+cd assets
+find -name assets
+cd ./client/assets
+mkdir icons
+mkdir client/assets/icons
+cd ../
+cd ..
+mkdir client/assets/icons

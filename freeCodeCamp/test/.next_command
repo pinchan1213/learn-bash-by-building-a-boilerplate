@@ -270,3 +270,10 @@ find
 mv /workspace/project/website/CodeRoad.svg /workspace/project/website/client/assets/icons
 mv /workspace/project/website/freeCodeCamp.svg /workspace/project/website/client/assets/icons
 find
+cd /workspace/project/website/client/assets
+mkdir fonts
+mkdir client/assets/fonts
+cd ../
+cd ./
+cd ..
+mkdir client/assets/fonts

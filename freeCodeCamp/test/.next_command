@@ -117,3 +117,5 @@ more src
 ls --color=auto
 more src
 more index.js
+cd has
+cd ../

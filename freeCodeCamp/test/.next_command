@@ -115,3 +115,5 @@ cd src
 pwd
 more src
 ls --color=auto
+more src
+more index.js

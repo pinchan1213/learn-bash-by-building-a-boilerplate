@@ -30,3 +30,5 @@ pwd
 ls --color=auto
 cd tedt
 cd test
+pws
+pwd

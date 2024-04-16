@@ -256,3 +256,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 pwd
 cd website
 rmdir images
+ls --color=auto

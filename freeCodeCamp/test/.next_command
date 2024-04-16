@@ -268,3 +268,4 @@ mkdir client/assets/icons
 mv CodeAlly.svg client/assets/icons
 find
 mv /workspace/project/website/CodeRoad.svg /workspace/project/website/client/assets/icons
+mv /workspace/project/website/freeCodeCamp.svg /workspace/project/website/client/assets/icons

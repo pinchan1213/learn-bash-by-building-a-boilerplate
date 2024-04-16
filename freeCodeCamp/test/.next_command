@@ -313,3 +313,10 @@ ls --color=auto
 cp --help
 cp -r website-boilerplate toms-website
 ls --color=auto
+find
+find
+cd toms-website
+find
+find toms-website
+cd ../
+find toms-website

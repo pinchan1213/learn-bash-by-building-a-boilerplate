@@ -130,3 +130,4 @@ cd website
 ls --color=auto
 echo "hello website"
 echo hello website
+touch index.html

@@ -292,3 +292,4 @@ find
 rm --heip
 rm --help
 rm -r fonts
+ls --color=auto

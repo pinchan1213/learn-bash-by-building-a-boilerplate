@@ -279,3 +279,9 @@ cd ..
 mkdir client/assets/fonts
 touch client/assets/fonts/roboto-bold.woff
 touch client/assets/fonts/roboto-light.woff
+find
+cd /workspace/project/website/client/assets/fonts
+find
+cd ../../../../
+cd website
+find client/assets/fonts
